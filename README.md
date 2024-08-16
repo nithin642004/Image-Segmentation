@@ -1,6 +1,6 @@
 # Image Segmentation with U-Net
 
-This type of image classification is called semantic image segmentation. The word “semantic” here refers to what's being shown, so for example the “Car” class is indicated below by the dark blue mask, and "Person" is indicated with a red mask:
+I used semantic image segmentation for this project. Here is an example of how semantic classification works, In the below figure the “Car” class is indicated below by the dark blue mask, and "Person" is indicated with a red mask:
 
 <img src="images/carseg.png" style="width:500px;height:250;">
 <caption><center> <u><b>Figure 1</u></b>: Example of a segmented image <br> </center></caption>
